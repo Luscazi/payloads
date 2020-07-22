@@ -10,8 +10,8 @@ body {
   transform:translate(-50%,-50%);
 }
 .download-btn {
-  width:200px;
-  height:60px;
+  width:400px;
+  height:120px;
   text-align:center;
   cursor:pointer;
   margin:20px 0px;
@@ -25,10 +25,10 @@ body {
 .download-btn div {
   width:100%;
   height:100%;
-  font-size:15px;
+  font-size:30px;
   font-weight:600;
   text-transform:uppercase;
-  line-height:50px;
+  line-height:110px;
 }
 .download-btn.btn-2 .top {
   background:#7b76e2;
@@ -42,5 +42,5 @@ body {
   transition:all 300ms ease-in-out;
 }
 .download-btn:hover .top {
-  margin-top:-50px;
+  margin-top:-110px;
 }
