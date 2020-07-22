@@ -41,6 +41,7 @@ body {
 .download-btn .top {
   transition:all 300ms ease-in-out;
 }
-.download-btn:active .top {
+
+.download-btn:focus .top {
   margin-top:-110px;
 }
